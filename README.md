@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LordDreadful
 - [![Top Langs](https://github-readme-stats.vercel.app/api?username=LordDreadful&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-- [![LordDreadful's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=LordDreadful&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+- [![LordDreadful's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=LordDreadful&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/LordDreadful)
